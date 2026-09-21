@@ -108,6 +108,7 @@ package-lock.json
 /public_html/wp-content/plugins/templatera/**/*
 /public_html/wp-content/plugins/total-theme-core/**/*
 /public_html/wp-content/plugins/total-theme-core-extension/**/*
+/public_html/wp-content/plugins/txp-theme-extension/**/*
 /public_html/wp-content/plugins/updraftplus/**/*
 /public_html/wp-content/plugins/wordfence/**/*
 /public_html/wp-content/plugins/woocommerce/**/*
