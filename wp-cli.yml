@@ -1,0 +1,8 @@
+# auto-generated file
+path: "/srv/www/saice-vzagroup-01/public_html"
+"@vvv":
+  ssh: vagrant
+  path: /srv/www/saice-vzagroup-01/public_html
+"@saice-vzagroup-01":
+  ssh: vagrant
+  path: /srv/www/saice-vzagroup-01/public_html
