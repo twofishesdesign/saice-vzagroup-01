@@ -44,3 +44,5 @@ function certificate_list()
 }
 
 add_shortcode( 'certlist', 'certificate_list' );
+
+// learndash_user_get_course_progress
