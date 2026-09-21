@@ -1,0 +1,14 @@
+.single-sfwd-courses ul.meta,
+#primary #content .ld-course-status-seg-price,
+#primary #content .ld-course-status-seg-status,
+#primary #content .ld-alert-certificate .ld-button {
+	display: none;
+}
+
+#primary #content .woocommerce-MyAccount-navigation li.is-active a {
+    background:  #00aef0;
+}
+
+#wrap .ld-course-status-action > .ld-button {
+	display: none;
+}

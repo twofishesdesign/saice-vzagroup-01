@@ -90,11 +90,16 @@ package-lock.json
 
 /public_html/wp-content/plugins/akismet/**/*
 /public_html/wp-content/plugins/disable-gutenberg/**/*
+/public_html/wp-content/plugins/easy-login-woocommerce/**/*
 /public_html/wp-content/plugins/ga-google-analytics/**/*
 /public_html/wp-content/plugins/gravity-pdf/**/*
 /public_html/wp-content/plugins/gravityforms/**/*
 /public_html/wp-content/plugins/gravitysmtp/**/*
 /public_html/wp-content/plugins/js_composer/**/*
+/public_html/wp-content/plugins/learndash-certificate/**/*
+/public_html/wp-content/plugins/learndash-notifications/**/*
+/public_html/wp-content/plugins/sfwd-lms/**/*
+/public_html/wp-content/plugins/show-certificates-anywhere-for-learndash/**/*
 /public_html/wp-content/plugins/meta-box/**/*
 /public_html/wp-content/plugins/meta-box-aio/**/*
 /public_html/wp-content/plugins/popup-maker/**/*
@@ -105,6 +110,7 @@ package-lock.json
 /public_html/wp-content/plugins/total-theme-core-extension/**/*
 /public_html/wp-content/plugins/updraftplus/**/*
 /public_html/wp-content/plugins/wordfence/**/*
+/public_html/wp-content/plugins/woocommerce/**/*
 /public_html/wp-content/plugins/wordpress-seo/**/*
 /public_html/wp-content/plugins/wp-mail-logging/**/*
 /public_html/wp-content/plugins/wp-optimize/**/*
